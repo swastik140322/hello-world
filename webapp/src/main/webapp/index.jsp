@@ -2,7 +2,7 @@
   <div class="container">
     <h1> Hare Krishna Hare Krishna Krishna krishna krishna Hare Hare  </h1>
     <h1> Hare Krishna Hare Krishna Krishna krishna krishna Radhey Radhey Japa Karo Hare Hare  </h1>
-    <p>Please fill in this form to create an account. So that we should have all the information of users:  Hello Krishna </p>
+    <p>Please fill in this form to create an account.  krishna  So that we should have all the information of users:  Hello Krishna </p>
     <hr>
      
     <label for="Name"><b>Enter Correct Name</b></label>
